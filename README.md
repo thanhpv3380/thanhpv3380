@@ -1,7 +1,7 @@
 <h2> Hi, I'm Henry 👋<h2>
-<p><em>Software Enginner at <a href="https://www.hust.edu.vn/">Ha Noi University of Science and Technology</a>
+Software Enginner at <a href="https://www.hust.edu.vn/">Ha Noi University of Science and Technology</a>
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media4.giphy.com/media/l41YryziohxMVBtmg/200w.gif" width="50"> A little more about me...  
 ```javascript
 const henry = {
   pronouns: "he" | "his",
